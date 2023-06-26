@@ -1,7 +1,7 @@
 # estudos_Data_Base
 Estudos Banco de Dados - SQL
 
-Tipos de Banco de Dados
+Tipos de SGBD (Sistema de Gerenciamento de Banco de Dados)
 
 ### Relacionais
   - MySQL
